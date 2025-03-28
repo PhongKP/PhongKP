@@ -11,7 +11,7 @@ I'm senior student at Sai Gon University, I'm passionate in Java and C#.
 * ✉️  You can contact me at [koongchanphong0712@gmail.com](mailto:koongchanphong0712@gmail.com)
 * 🧠  I'm learning Spring, ASP .NET Core
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm looking forward being an professional Software Engineer and work in FAANG
+* ⚡  I'm looking forward being an professional Software Engineer and working in FAANG
 
 ### Skills
 
